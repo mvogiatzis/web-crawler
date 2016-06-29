@@ -50,6 +50,8 @@ this exercise (e.g. "http://www.google.com/images.html" and not "/images.html")
 better control of prioritization (and different crawling strategies if needed). That is, if you want to do a breadth first
 search then the job scheduler will handle the task distribution differently. For simplicity a FIFO queue is used for now.
 
+* The HTTP client ignores the validity of SSL certificates.
+
 The output of the sitemap builder looks like this:
 
 ```
