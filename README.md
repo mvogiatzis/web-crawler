@@ -1,4 +1,4 @@
-Web Crawler
+Web Crawler [![Build Status](https://travis-ci.org/mvogiatzis/web-crawler.svg?branch=master)](https://travis-ci.org/mvogiatzis/web-crawler)
 ===========
 
 The web crawler crawls same domain only as required and builds a simple site map showing links to other pages under the
